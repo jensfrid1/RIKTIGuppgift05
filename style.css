@@ -1,0 +1,51 @@
+body {
+  background-color: #83C841;
+  font-family: Arial;
+}
+
+article {
+  float: left;
+  width: 48%;
+}
+
+/*
+header {
+  font-family: georgia;
+}
+
+#firstpart {
+  width: 50%;
+}
+
+#secondpart {
+  position: relative;
+  width: 49%;
+}
+
+#secondtitle {
+  position: relative;
+  left: 49
+}
+
+#imagehtml {
+  position: relative;
+}
+*/
+footer {
+  clear: both;
+  width: 20rem;
+  margin: auto;
+}
+
+a:link {
+  color: #305B07;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #305B07;
+}
